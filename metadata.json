@@ -1,0 +1,8 @@
+{
+  "name": "ClipKaro AI",
+  "description": "AI-powered YouTube and video clipper that detects viral moments, crops to 9:16 vertical format, adds word-by-word lyrical subtitles in Hindi, Hinglish, English, and Punjabi, and exports 1080p MP4 via FFmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
